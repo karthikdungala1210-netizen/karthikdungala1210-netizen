@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Karthik Dungala">
+</p>
+
+<br/>
+
 # 👋 Hey, I'm Karthik Dungala!
 
 ### ⚡ Electronics | IoT | Embedded Systems | Software Development
