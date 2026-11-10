@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Karthik Dungala">
+  <img src="karthik-github-banner.png"
+       width="100%"
+       alt="Karthik Dungala">
 </p>
 
 <br/>
