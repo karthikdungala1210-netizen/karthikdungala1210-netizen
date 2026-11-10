@@ -25,6 +25,26 @@ I'm a B.Tech ECE student passionate about electronics, programming, IoT and buil
 
 ## 🛠️ Technical Skills
 
+<h2>🛠️ Technical Skills</h2>
+
+<h3>💻 Programming & Web Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,flask" />
+</p>
+
+<h3>⚡ Electronics & Embedded Systems</h3>
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Embedded%20Systems-blue?style=for-the-badge" />
+</p>
+
+<h3>🔧 Tools & Technologies</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+
 **Programming**
 
 - Python
